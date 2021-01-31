@@ -1,0 +1,137 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background-color: white;
+  }
+  
+  .Navbar__brand {
+    color: #ffffff;
+  
+    display: flex;
+    align-items: center;
+  }
+  
+  .Navbar__brand:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .Navbar__brand-logo {
+    margin-right: 0.5rem;
+  }
+  
+  .Menu__icono{
+    color: chocolate;
+  }
+
+  .mr-2{
+    margin-top: 0.1cm;
+    height: 26px;
+    color: grey;
+    width: 3%;
+
+  }
+  .menu___princial{
+    background :white;
+    margin-left: 0%;
+    
+
+  }
+  .P__incial{
+
+    margin-left: -0.9%;
+    margin-right: 1cm;
+  }
+
+  .menu__logo{
+    margin-top: -15px;
+    padding: 1ex;
+  }
+
+  .menu__buscador{
+    width: 17cm;
+    height: 1.2cm;
+    margin-left: 2cm;
+    margin-top: 1cm;
+    border: grey;
+    box-shadow: 1px 1px 4px #999;
+    color: transparent;
+    background-color:#EEEFF0;
+    outline: none;
+  }
+
+.menu__button
+  {
+    border: 1px solid snow;
+    padding: 10px; 
+    background-color:white;
+    color: gray; 
+    text-decoration: none; 
+    text-transform: initial; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    box-shadow: 1px 1px 2px #999;
+    font-size:  20px;
+    height: 58px;
+    outline: none;
+}
+
+.menu__dos{
+
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.menu_s{
+    margin-top: -0.1cm;
+    color: grey;
+  }
+.sub__s{
+margin-left: 4cm;
+
+
+}
+.menu__dos_b{
+  margin-left: 18.5cm;
+  margin-top: -0.1cm;
+  color: grey;
+}
+
+.menu__d{
+    color: grey;
+    text-decoration: none;
+    margin-top: -0.4%;
+    width: 25px;
+}
+
+.color__text{
+  color: grey;
+  text-decoration: none;
+}
+
+.btn {
+color: grey;
+}
+
+.menu__avatar {
+  border-radius: 50%;
+  margin-top: -1%;
+  margin-left: 1rem;
+  width: 30px;
+  height: 30px;
+}
+.menu_nivel_dos{
+margin-left: 27cm;
+margin-top: -0.1cm;
+width: 23px;
+
+}
+
+.sub_menu{
+ color: grey;
+ font-size: 20px;
+}
+.Ordernar{
+margin-left: 5.7cm;
+color: grey;
+box-shadow: 1.5px 1px 2px;
+}
